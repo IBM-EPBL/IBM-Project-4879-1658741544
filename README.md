@@ -3,7 +3,7 @@
 
 ## Team Members:
 
-Sri Murugharaj B R <br>
+Sri Murugharaj B R [Team Lead] <br>
 Shakthy B <br>
 Sabari L <br>
 Vasanth B N
